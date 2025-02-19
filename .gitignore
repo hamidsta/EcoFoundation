@@ -9,4 +9,4 @@ env/
 .ipynb_checkpoints/
 
 
-**/desktop.ini
+#**/desktop.ini
