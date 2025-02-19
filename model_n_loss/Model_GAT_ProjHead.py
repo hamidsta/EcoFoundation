@@ -5,7 +5,7 @@ import torch
 from torch.nn import Linear
 import torch.nn.functional as F
 
-
+# GAT with attention head / tune architecture 
 
 class Graph_MERFISH(torch.nn.Module):
     def __init__(self, num_features_exp, hidden_channels,projection_dim):
